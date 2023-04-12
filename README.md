@@ -1,9 +1,7 @@
-### Lucas Leal aqui :)
-Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e outras redes. Curioso sobre programação de jogos e estudando Lua nas horas vagas.
+### Merari Dayvson aqui :)
+Curioso sobre programação e estudando Python.
 
-- 👨🏻‍💻 **Professor** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
-- 🧗🏼 Apaixonado por **escalada**
-- 📸 Também falo sobre **Ciência de Dados** no YouTube da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
+- 👨🏻‍💻 **Assistente Administrativo** na [San Fernando Alimentos](http://alemdopao.com.br/)
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
@@ -19,15 +17,3 @@ Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e 
 &nbsp;<a href="https://www.instagram.com/m.dayvson">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
-
-
-#### E pode aproveitar pra ver alguns conteúdos que eu criei:
-- <a href="https://llucaslleall.medium.com/conceitos-fundamentais-de-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-945c1cc9f8c0">
-    Conceitos fundamentais de estatística para Ciência de Dados (Medium)
-  </a>
-- <a href="https://www.youtube.com/watch?v=WJE4spsP-Xk&t=4317s">
-    Como sair do ZERO em Ciência de Dados em Apenas UMA AULA (YouTube)
-  </a>
-- <a href="https://llucaslleall.medium.com/5-dicas-que-eu-gostaria-de-ter-escutado-quando-comecei-em-ci%C3%AAncia-de-dados-721735cd83c2">
-    5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)
-  </a>
