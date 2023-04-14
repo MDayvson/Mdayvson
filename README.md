@@ -1,3 +1,4 @@
+<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
 
 <h2>Hello World ☕</h2>
 Curioso sobre programação e estudando Python.
