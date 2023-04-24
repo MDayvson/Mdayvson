@@ -9,6 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdayvson&layout=compact&hide_border=false&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 </div>
 
+
 ##
 - **Atualmente estudando:**
 
@@ -19,9 +20,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
 
-  
 </div>
 
 ##
@@ -33,7 +32,9 @@
   
 </div>
 
+
 ##
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdayvson&bg_color=000000&color=1E90FF&line=5073dc&point=50bafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -42,10 +43,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mdayvson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mdayvson}/count.svg" /></p> 
 <br>
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
