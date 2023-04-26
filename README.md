@@ -10,12 +10,11 @@
 </div>
 
 ##
-
-- **I am studying**:
-
-
 <div style="display: flex; align-items: flex-start;">
-  
+
+<h2>⚙️ Estudando:
+<br/><br/>
+
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="62" height="62" />
@@ -25,9 +24,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="icon" width="62" height="62" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="icon" width="62" height="62" />
 
+</h2> 
 </div>
-  
-##
 
 <div>
 
@@ -38,6 +36,7 @@
 </div>
 
 ##
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdayvson&bg_color=000000&color=1E90FF&line=5073dc&point=50bafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
