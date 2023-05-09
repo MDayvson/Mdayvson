@@ -16,9 +16,9 @@
 <br/><br/>
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" />
+<!--  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" /> -->
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="icon" width="62" height="62" />
