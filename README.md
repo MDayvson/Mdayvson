@@ -37,8 +37,9 @@
 
 ##
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdayvson&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdayvson&bg_color=000000&color=1E90FF&line=5073dc&point=50bafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdayvson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
