@@ -16,13 +16,14 @@
 <br/><br/>
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" />
-<!--  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="62" height="62" />
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" />
+<!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" /> -->
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="icon" width="62" height="62" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="icon" width="62" height="62" />
+<img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="62" height="62">
 
 </h2> 
 </div>
