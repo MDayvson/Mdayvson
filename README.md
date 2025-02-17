@@ -17,6 +17,7 @@
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" />
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" />
+ <img src="https://storage.googleapis.com/hcode-public-storage/images/PHP-8/PHP8_DEFAULT_HCODE.svg" alt="icon" width="62px" height="62" />
 <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" /> -->
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="62" height="62" />
