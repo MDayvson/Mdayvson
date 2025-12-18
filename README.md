@@ -48,13 +48,15 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdayvson&theme=dracula&row=2&column=3&margin-w=15&margin-h=15" alt="mdayvson trophies" />
-</p>
-
 <div align="center">
-  <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/mdayvson/count.svg" alt="mdayvson visitor count" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mdayvson&show_icons=true&theme=dracula" alt="Stats" />
+  
+  <br><br>
+
+  <p><b>Visitas ao Perfil</b></p>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdayvson&count_bg=%23bd93f9&title_bg=%2344475a&title=Visitors" alt="Contador" />
+
 </div>
 
 
