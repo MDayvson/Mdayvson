@@ -49,15 +49,12 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdayvson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdayvson&theme=dracula&row=2&column=3&margin-w=15&margin-h=15" alt="mdayvson trophies" />
 </p>
 
 <div align="center">
-  
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/mdayvson/count.svg" /></p>
-<br>
-  
+  <p><b>Visitors Count</b></p>
+  <img src="https://profile-counter.glitch.me/mdayvson/count.svg" alt="mdayvson visitor count" />
 </div>
 
 
