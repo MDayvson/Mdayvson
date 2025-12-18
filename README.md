@@ -48,16 +48,17 @@
 
 
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdayvson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mdayvson&show_icons=true&theme=dracula" alt="Stats" />
-  
-  <br><br>
-
-  <p><b>Visitas ao Perfil</b></p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdayvson&count_bg=%23bd93f9&title_bg=%2344475a&title=Visitors" alt="Contador" />
-
+  <p align="center">
+    <b>Visitors Count</b><br>
+    <img src="https://komarev.com/ghpvc/?username=mdayvson&color=blue&style=flat-square" alt="mdayvson" />
+  </p>
 </div>
+
+<br>
 
 
 ![snake animation](https://github.com/mdayvson/mdayvson/blob/output/github-contribution-grid-snake.svg)
