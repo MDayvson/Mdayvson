@@ -62,9 +62,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mdayvson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-gold.vercel.app/?username=mdayvson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
   
   <p align="center">
     <b>Visitors Count</b><br>
