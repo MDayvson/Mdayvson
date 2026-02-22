@@ -2,12 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Merari+Dayvson;I'm+37+years+old;I'm+from+Brazil;I+Graduated+Administration;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
+<!-- <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mdayvson&show_icons=true&count_private=true&hide_border=false&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="MDayvson github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdayvson&layout=compact&hide_border=false&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mdayvson&show_icons=true&count_private=true&hide_border=false&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="MDayvson github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdayvson&layout=compact&hide_border=false&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 
+</div> -->
+
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdayvson&show_icons=true&count_private=true&hide_border=false&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="MDayvson github stats" />
+
+  <img width="41%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdayvson&layout=compact&hide_border=false&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="MDayvson top langs" />
 </div>
+
+
+
 
 ##
 <div style="display: flex; align-items: flex-start;">
@@ -50,6 +60,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdayvson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-gold.vercel.app/?username=mdayvson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
   
   <p align="center">
