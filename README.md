@@ -20,16 +20,16 @@
 
 
 ##
-<div style="display: flex; align-items: flex-start;">
+<!-- <div style="display: flex; align-items: flex-start;">
 
 <h2>⚙️ Estudando:
 <br/><br/>
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" />
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" />
- <img src="https://storage.googleapis.com/hcode-public-storage/images/PHP-8/PHP8_DEFAULT_HCODE.svg" alt="icon" width="62px" height="62" />
-<!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" /> -->
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" />
+<img src="https://storage.googleapis.com/hcode-public-storage/images/PHP-8/PHP8_DEFAULT_HCODE.svg" alt="icon" width="62px" height="62" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="62" height="62" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="62" height="62" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="icon" width="62" height="62" />
@@ -38,7 +38,31 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass logo" width="62" height="62">
 
 </h2> 
+</div> -->
+
+<!--Temporario - Inicio-->
+<br/>
+
+<h2 align="left" style="border-bottom: none;">⚙️ Estudando:</h2>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="62" height="62"></td>
+      <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="62" height="62"></td>
+      <td><img src="https://storage.googleapis.com/hcode-public-storage/images/PHP-8/PHP8_DEFAULT_HCODE.svg" width="62" height="62"></td>
+      <td><img src="https://techstack-generator.vercel.app/django-icon.svg" width="62" height="62"></td>
+      <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="62" height="62"></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="62" height="62"></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="62" height="62"></td>
+      <td><img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="62" height="62"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="62" height="62"></td>
+    </tr>
+  </table>
 </div>
+
+<br/>
+<!--Temporario  - fim-->
 
 
 <div>
